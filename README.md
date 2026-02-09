@@ -1,5 +1,6 @@
-## Olá eu sou Gabriel Perencine! 👋
-
+# Olá, eu sou Gabriel Perencine! 👋
+### Estudante de Análise e Desnvolvimento de Sistemas 
+Conhecimento em JavaScript, HTML, CSS, Python e C#
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
