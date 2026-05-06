@@ -54,10 +54,11 @@
 
 ## 🛠️ Projetos em Destaque
 
-* **HelpBarber:** Plataforma de agendamento com **IA (Google Gemini)** e Geolocalização [Next.js + Firebase].
-* **Task Manager:** API robusta em **.NET** com persistência em PostgreSQL e containerização Docker.
-* **PereFlix:** Clone da Netflix utilizando **Next.js** e consumo de APIs externas.
+* **[Clínica Fabi Contiero](https://github.com/GPerencine/clinica-fabicontiero):** Plataforma Full-Stack entregue para cliente real — agendamentos, painel admin com JWT, 30+ testes de integração e CI/CD [React 19 + Node.js + MongoDB].
+* **[HelpBarber](https://github.com/GPerencine/helpbarber):** Plataforma de agendamento com **IA (Google Gemini)** e geolocalização [Next.js 15 + Firebase + TypeScript].
+* **[Task Manager Pro](https://github.com/GPerencine/task-manager-fullstack):** API RESTful em **.NET 8** com PostgreSQL, testes automatizados e containerização Docker.
+* **[PereFlix](https://github.com/GPerencine/pereflix):** Interface de streaming com consumo de APIs externas [Next.js + TypeScript].
 
 ---
 
-💡 Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo projetos práticos e aprimorando minhas habilidades em desenvolvimento web, APIs e análise de dados.
+💡 Atualmente focado em evoluir como **Desenvolvedor Full Stack**, construindo projetos práticos e aprimorando minhas habilidades em desenvolvimento, APIs e análise de dados.
