@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou Gabriel Perencine! 👋</h1>
+<h1 align="center">Olá, eu sou Gabriel Perencine 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack </strong> | .NET • Node.js • React • Next.js <br>
-  Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e cursando <strong>Engenharia de Software</strong>
+  <strong>Desenvolvedor Full Stack</strong> | C# / .NET · Node.js · React · Next.js<br>
+  Aplicações em produção · Testes automatizados · CI/CD
 </p>
 
 <p align="center">
@@ -12,52 +12,73 @@
   <a href="mailto:gabrielperencine1@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
+  <img src="https://img.shields.io/badge/Full_Stack_Júnior-2ea44f?style=for-the-badge">
 </p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 💡 Sobre
 
-<table align="center">
-  <tr>
-    <td valign="center" width="50%">
-      <h3>👨‍💻 Linguagens de Programação</h3>
-      <img alt="C#" title="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-      <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-      <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      <img alt="Python" title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-      <h3>⚙️ Backend & Dados</h3>
-      <img alt=".NET" title=".NET" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-      <img alt="NodeJS" title="NodeJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-      <img alt="PostgreSQL" title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-      <img alt="SQLite" title="SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-      <img alt="Firebase" title="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-    </td>
-    <td valign="center" width="50%">
-      <h3>🌐 Frontend & UI/UX</h3>
-      <img alt="Next.js" title="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-      <img alt="React" title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <img alt="TailwindCSS" title="TailwindCSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-      <img alt="HTML" title="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-      <img alt="CSS" title="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-      <h3>🧰 Tecnologias</h3>
-      <img alt="Docker" title="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-      <img alt="Git" title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    </td>
-  </tr>
-</table>
+Desenvolvo aplicações Full Stack com ecossistema principal em **C#/.NET** no backend e **React/Next.js** no frontend. Já entreguei um sistema sob contrato para cliente real, atualmente em produção, com pipeline de CI/CD que bloqueia merge em falha de testes e análise estática contínua via SonarCloud.
+
+Formado em Análise e Desenvolvimento de Sistemas (USCS) e cursando Engenharia de Software (Fundação Santo André). Certificado AWS Cloud Practitioner Essentials.
+
+---
+
+## 🚀 Stack
+
+<div align="center">
+  <img alt="C#" title="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img alt=".NET" title=".NET" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img alt="NodeJS" title="NodeJS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="TypeScript" title="TypeScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" title="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="React" title="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="Next.js" title="Next.js" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img alt="TailwindCSS" title="TailwindCSS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="MongoDB" title="MongoDB" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img alt="Firebase" title="Firebase" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img alt="Docker" title="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img alt="AWS" title="AWS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
+
+**Qualidade & DevOps:** GitHub Actions (CI/CD) · Jest · xUnit · Testcontainers · SonarCloud
+</div>
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-* **[Clínica Fabi Contiero](https://github.com/GPerencine/clinica-fabicontiero):** Sistema de agendamentos desenvolvido para cliente real e utilizado em produção, painel admin com com autenticação JWT, 30+ testes de integração e pipeline CI/CD que bloqueia merges em caso de falhas. [React 19 + Node.js + MongoDB].
-* **[HelpBarber](https://github.com/GPerencine/helpbarber):** Plataforma SaaS para barbearias com recomendação personalizada utilizando IA generativa, Firebase Auth, geolocalização e deploy automatizado. [Next.js 15 + Firebase + TypeScript].
-* **[Task Manager Pro](https://github.com/GPerencine/task-manager-fullstack):** API RESTful construída com ASP.NET Core e PostgreSQL, utilizando testes de integração contra banco real para garantir confiabilidade do comportamento da aplicação.
-  
----
-<div align="center">
-💡 Me interesso pela construção de aplicações confiáveis, testes automatizados, integração contínua e foco na qualidade do software. 
+**[Clínica Fabi Contiero](https://github.com/GPerencine/clinica-fabicontiero)** — Sistema de agendamentos entregue sob contrato para cliente real, em produção.
+- Painel administrativo com autenticação JWT e testes de integração (Jest + Supertest).
+- Pipeline de CI/CD no GitHub Actions que bloqueia merge em caso de falha nos testes.
 
-Estou sempre buscando aprofundar conhecimentos em arquitetura, boas práticas de engenharia e desenvolvimento Full Stack.
-</div>
+`React 19` `Node.js` `Express` `MongoDB` `JWT`
+
+**[HelpBarber](https://github.com/GPerencine/helpbarber)** — Plataforma SaaS de agendamento para barbearias com consultor de estilo via IA generativa.
+- IA integrada ao Google Gemini para recomendação personalizada de cortes com base no formato do rosto.
+- Autenticação por papéis com Firebase Custom Claims e pipeline de CI completo (lint → testes → build → deploy).
+
+`Next.js 15` `TypeScript` `Firebase` `Tailwind CSS`
+
+**[Task Manager Pro](https://github.com/GPerencine/task-manager-fullstack)** — API RESTful de gerenciamento de tarefas com arquitetura em camadas.
+- Repository Pattern com Entity Framework Core, separando regras de negócio da infraestrutura.
+- Testes de integração contra PostgreSQL real via Testcontainers — sem mocks de banco.
+
+`ASP.NET Core 8` `C#` `PostgreSQL` `xUnit` `Docker`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GPerencine&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPerencine&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  📫 Vamos conversar sobre oportunidades Full Stack Júnior — <a href="mailto:gabrielperencine1@gmail.com">gabrielperencine1@gmail.com</a>
+</p>
