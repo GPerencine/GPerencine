@@ -73,8 +73,8 @@ Formado em Análise e Desenvolvimento de Sistemas (USCS) e cursando Engenharia d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=GPerencine&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=GPerencine&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gperencine&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gperencine&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
