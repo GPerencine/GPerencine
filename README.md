@@ -19,9 +19,9 @@
 
 ## 💡 Sobre
 
-Desenvolvo aplicações Full Stack com ecossistema principal em **C#/.NET** no backend e **React/Next.js** no frontend. Já entreguei um sistema sob contrato para cliente real, atualmente em produção, com pipeline de CI/CD que bloqueia merge em falha de testes e análise estática contínua via SonarCloud.
+Desenvolvo aplicações Full Stack com ecossistema principal em **C#/.NET** no backend e **Java Script(**React/Next.js**) no frontend. Já entreguei um sistema sob contrato para cliente real, atualmente em produção, com pipeline de CI/CD que bloqueia merge em falha de testes e análise estática contínua via SonarCloud.
 
-Formado em Análise e Desenvolvimento de Sistemas (USCS) e cursando Engenharia de Software (Fundação Santo André). Certificado AWS Cloud Practitioner Essentials.
+Formado em Análise e Desenvolvimento de Sistemas (USCS) e cursando Engenharia de Software (Fundação Santo André).
 
 ---
 
@@ -80,5 +80,5 @@ Formado em Análise e Desenvolvimento de Sistemas (USCS) e cursando Engenharia d
 ---
 
 <p align="center">
-  📫 Vamos conversar sobre oportunidades Full Stack Júnior — <a href="mailto:gabrielperencine1@gmail.com">gabrielperencine1@gmail.com</a>
+  Busco oportunidades como Desenvolvedor Júnior — <a href="mailto:gabrielperencine1@gmail.com">gabrielperencine1@gmail.com</a>
 </p>
