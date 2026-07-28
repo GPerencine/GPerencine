@@ -18,7 +18,7 @@
 
 ## 💡 Sobre
 
-Desenvolvo aplicações Full Stack com ecossistema principal em **C#/.NET** no backend e **JavaScript no frontend. Já entreguei um sistema sob contrato para cliente real, atualmente em produção, com pipeline de CI/CD que bloqueia merge em falha de testes e análise estática contínua via SonarCloud.
+Desenvolvo aplicações Full Stack com ecossistema principal em **C#/.NET** no backend e **JavaScript** no frontend. Já entreguei um sistema sob contrato para cliente real, atualmente em produção, com pipeline de CI/CD que bloqueia merge em falha de testes e análise estática contínua via SonarCloud.
 
 Formado em Análise e Desenvolvimento de Sistemas (USCS) e cursando Engenharia de Software (Fundação Santo André).
 
